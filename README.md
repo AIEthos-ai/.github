@@ -1,2 +1,43 @@
 # .github
 AIEthos LLC: Company Overview
+
+AIEthos LLC is the pioneer in Generative Engine Optimization (GEO) and AI-readiness services, officially founded on August 19, 2025, with the mission of helping brands transition from traditional search engine rankings to becoming authoritative cited sources in the age of artificial intelligence.
+The firm’s core philosophy is summarized by its primary tagline: "Be the Answer, Not Just a Link". As AI-powered search begins to overtake traditional search engine queries, AIEthos provides the technical infrastructure and strategic guidance necessary for brands to maintain visibility in a digital landscape dominated by Large Language Models (LLMs).
+
+--------------------------------------------------------------------------------
+
+The Strategic Shift: From SEO to GEO
+Traditional Search Engine Optimization (SEO) focuses on where a brand "ranks" on a results page, but AIEthos addresses the more fundamental challenge of whether an AI model perceives a brand as a valid entity at all. Generative Engine Optimization (GEO) bridges the gap between digital content and machine interpretation, ensuring a brand is the primary cited source when AI provides answers to customers.
+Market research integrated into the AIEthos platform highlights the urgency of this shift:
+AI-Mediated Discovery: This is becoming the default for high-intent queries.
+Conversion Lift: Organizations adopting AI-mediated search see a 20%+ higher engagement and up to 2× conversion rates.
+Visibility Advantage: Pages with proper structured data are 2–4× more likely to be used in AI answer engines.
+
+--------------------------------------------------------------------------------
+
+Proprietary Technology & Modules
+AIEthos offers an industry-first platform that provides a measurable footprint inside LLM-generated answers. The platform is built upon three proprietary modules:
+Ethos-Tron™ Scanner: A scanner that audits technical and retrieval-layer signals, simulating Retrieval-Augmented Generation (RAG) pathways to identify competitive blind spots. It analyzes robots.txt, sitemaps, and JSON-LD to reflect how brands are surfaced in AI workflows.
+Ethos-Glamdring™ Score: A weighted 0–100 GEO Readiness rating that measures an organization's preparedness for responsible AI adoption across visibility, sentiment, and technical foundations.
+Semantic Patch-Gen: Advanced technology for generating additive JSON-LD patches that improve how AI systems interpret brand-specific facts, especially within fragmented datasets like CommonCrawl.
+
+--------------------------------------------------------------------------------
+
+Service Portfolio and Pricing
+AIEthos provides a range of services designed to optimize brand presence for LLM retrieval and RAG systems:
+GEO Strategy: Moving beyond keywords to optimize content for LLM training data and retrieval.
+Brand Citation Analysis: Deep analysis of how AI models currently perceive, describe, and cite a brand across the digital ecosystem.
+Authority Building: Utilizing technical schema and semantic structuring to prove to AI agents that a brand is the expert source.
+AI Presence Audit: Analysis of how models identify and summarize a brand.
+Pricing Tiers:
+Free Basic Audit: $0 (Pulse-check on AI-readiness).
+Standard Audit: $150 (One-time detailed report).
+Monthly Subscription: $299/month (Automated tracking and monthly progress reports).
+Custom GEO Implementation: $125/hour (Hands-on technical deployment).
+
+--------------------------------------------------------------------------------
+
+Corporate Identity and Technical Readiness
+AIEthos is headquartered in San Diego, CA, with global remote operations in New Haven, CT, Amsterdam, and London. The company serves a diverse range of industries, including technology, healthcare, financial services, and consumer brands.
+Technically, AIEthos practices what it preaches by maintaining an AI-Ready configuration. Its web infrastructure explicitly allows high-intent bots such as OAI-SearchBot, ChatGPT-User, and PerplexityBot to maximize brand visibility. The organization is formally defined through structured JSON-LD schema, ensuring that AI assistants can verify its "source of truth" facts with high confidence
+
